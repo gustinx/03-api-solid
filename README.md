@@ -33,12 +33,12 @@ GymPass style app.
 
 ## Como rodar o projeto
 
-Clone o repositório
+Clone o repositório:
 
 `git clone https://github.com/gustinx/03-api-solid.git`
 
-Inicie o servidor com
+Inicie o servidor com:
 
 `npm run start:dev`
 
-O servidor será irá rodar em [http://localhost:3333](http://localhost:3333)
+O servidor será irá rodar em: [http://localhost:3333](http://localhost:3333)
